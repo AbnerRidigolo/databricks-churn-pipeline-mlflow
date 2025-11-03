@@ -58,9 +58,7 @@ Esta fase simula um *job* agendado que usa o modelo em produção para gerar pre
 
 ---
 
-## 📈 Resultados (Exemplos)
-
-Aqui você pode adicionar os prints que eu sugeri!
+## 📈 Resultados
 
 #### Rastreamento de Experimentos no MLflow
 https://github.com/AbnerRidigolo/databricks-churn-pipeline-mlflow/issues/1#issue-3583457449
