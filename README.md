@@ -63,12 +63,10 @@ Esta fase simula um *job* agendado que usa o modelo em produção para gerar pre
 Aqui você pode adicionar os prints que eu sugeri!
 
 #### Rastreamento de Experimentos no MLflow
-*(Cole o link da sua imagem do MLflow UI aqui)*
-`![MLflow Experiments UI](COLE_O_LINK_DA_SUA_IMAGEM_AQUI)`
-
+[*(Cole o link da sua imagem do MLflow UI aqui)*
+`![MLflow Experiments UI](COLE_O_LINK_DA_SUA_IMAGEM_AQUI)`](https://github.com/AbnerRidigolo/databricks-churn-pipeline-mlflow/issues/1#issue-3583457449)
 #### Tabela de Previsões Finais (Camada Ouro)
-*(Cole o link da sua imagem da tabela final aqui)*
-`![Tabela de Previsões Ouro](COLE_O_LINK_DA_SUA_IMAGEM_AQUI)`
+![Image](https://github.com/user-attachments/assets/c32e86cd-ad62-473f-8faf-15056745248f)
 
 ---
 
